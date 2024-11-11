@@ -10,6 +10,8 @@ This YouTube Data Analysis project is designed to analyze YouTube comment data t
 * Engagement levels to assess if audiences are actively interacting with content
 
 
+Pandas - 1d structure - array/list. 2d structure - dataframe
+	
 Why do you add r in pd.read_csv():
 You convert it to raw string and python reads it as such
 
@@ -220,8 +222,6 @@ Reset the index to get a dataframe:
 
 Rename the column:
 
-<img width="760" alt="image" src="https://github.com/user-attachments/assets/14687b44-1723-4869-9bf2-ae2e8788f2e8">
-
 
 
 
@@ -254,4 +254,6 @@ The below shows the likes:
 
 
 
-![image](https://github.com/user-attachments/assets/21f5c47f-e2d2-4539-9889-04dc8595fdef)
+![image](https://github.com/user-attachments/assets/d586e9f2-cce1-4554-877d-e8e6b2b749ba)
+
+
